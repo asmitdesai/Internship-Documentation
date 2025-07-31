@@ -11,6 +11,11 @@
 Built a comprehensive open-source **Security Operations Center (SOC)** stack by integrating SIEM, EDR, SOAR, and threat intelligence. The solution supports real-time detection, enrichment, and automated response to adversary techniques in a simulated enterprise environment.
 
 ---
+## 🧭 Project Architecture
+
+![SOC Architecture Diagram](./architecture.png)
+
+---
 
 ## ⚙️ Key Features
 
