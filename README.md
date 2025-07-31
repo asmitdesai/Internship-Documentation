@@ -86,6 +86,28 @@ Built a comprehensive open-source **Security Operations Center (SOC)** stack by 
 - 📈 Developed executive-ready dashboards to visualize attack surface and mitigation status.
 
 ---
+
+## 🚀 Future Plans
+
+Now that my internship project is complete, I’m continuing to build upon this experience with the following goals:
+
+| Focus Area                | Next Steps                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| 🛠 Project Expansion      | Refactor and modularize the lab for better replication and public tutorials |
+| 📦 Dockerization         | Containerize all components (Wazuh, MISP, Velociraptor) for portability     |
+| 📊 Visualization         | Explore integrating Kibana or Grafana for visual dashboards                 |
+| 🔄 Threat Response       | Build bi-directional workflows in Shuffle (e.g., auto-banning IPs)          |
+| 📁 IOC Management        | Use TheHive or Cortex to manage alerts and observables                      |
+| 🔒 EDR Enrichment        | Deepen Velociraptor usage for behavioral baselining and anomaly hunting     |
+| 🧪 Red Team Testing      | Simulate advanced attack chains (e.g., MITRE ATT&CK chains) using ART       |
+| 🧑‍💻 Community Sharing   | Write tutorials and a full blog series documenting setup + findings         |
+| 📚 Certifications        | Prepare for CompTIA Security+, TryHackMe SOC Level 2, and Blue Team labs    |
+
+---
+
+> ✨ *This project helped me identify my interest in blue teaming, SOAR, and threat detection automation. I’m now working toward deeper specialization in these areas through self-study, hands-on labs, and collaboration.*
+
+
 ## 📬 Contact
 
 **Asmit Desai**  
