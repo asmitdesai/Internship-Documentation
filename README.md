@@ -80,7 +80,7 @@ Built a comprehensive open-source **Security Operations Center (SOC)** stack by 
 
 ## ✅ Outcomes
 
-- 🚀 Delivered a **production-ready**, modular SOC platform using open-source technologies.
+- 🚀 Built a fully functional lab prototype of a SOC platform using open-source tools — designed for realistic threat detection and automation simulations.
 - 🔁 Achieved full-stack automation from detection to response using Wazuh + Shuffle.
 - 🎯 Hands-on experience across **SIEM tuning, SOAR automation, EDR, and threat simulation**.
 - 📈 Developed executive-ready dashboards to visualize attack surface and mitigation status.
