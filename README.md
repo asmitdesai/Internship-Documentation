@@ -13,7 +13,7 @@ Built a comprehensive open-source **Security Operations Center (SOC)** stack by 
 ---
 ## 🧭 Project Architecture
 
-![SOC Architecture Diagram](./architecture.png)
+![SOC Architecture Diagram](./architecture.svg)
 
 ---
 
