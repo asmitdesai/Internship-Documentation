@@ -112,6 +112,6 @@ Now that my internship project is complete, I’m continuing to build upon this 
 
 **Asmit Desai**  
 Connect on [LinkedIn](https://www.linkedin.com/in/asmit-desai-858668230/)  
-Reach out for collaboration, mentoring, or resume opportunities!
+Reach out for collaboration!
 
 ---
